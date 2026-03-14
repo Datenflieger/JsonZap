@@ -1,0 +1,17 @@
+{
+  "name": "JsonZap",
+  "short_name": "JsonZap",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe5",
+  "theme_color": "#e66b2a",
+  "description": "Blitz JSON formatter for devs who hate debugging",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
