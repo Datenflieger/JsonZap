@@ -36,12 +36,6 @@ npm i
 npm run dev
 ```
 
-## Deploy
-
-Ship it on Vercel:
-
-[Deploy JsonZap](https://vercel.com/new/clone?repository-url=https://github.com/datenflieger/jsonzap)
-
 ## Built with
 
 - React
